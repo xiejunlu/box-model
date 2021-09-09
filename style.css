@@ -1,0 +1,15 @@
+button{
+    padding: 10px 25px 10px 25px;
+    margin: 15px;
+    background-color:violet;
+    color: black;
+    border:none;
+    border-radius: 9px;
+}
+.card{
+    border: 2px dashed pink;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    
+}
